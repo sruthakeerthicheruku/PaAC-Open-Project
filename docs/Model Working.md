@@ -1,4 +1,4 @@
-Model Logic & ArchitectureSelected Track: 
+# Model Logic & Architecture Selected Track: 
 
 ### Track 1 (Transformer).
 * Architecture: I used a Transformer-based mapping because the self attention mechanism is ideal for identifying global correlations in quantum measurement sequences.
@@ -14,7 +14,7 @@ The model outputs a complex lower-triangular matrix $L$. The final state is reco
 
 * Unit Trace: Explicitly dividing by the trace ensures $Tr(\rho) = 1.0$.
 
-## Part 4: Required Metrics
+# Part 4: Required Metrics
 As specified in the assignment requirements, the following metrics were recorded during the final test execution:
 
 #### Mean Fidelity : 0.5000
