@@ -8,5 +8,3 @@ I used Gemini (AI) as a learning assistant and debugger during this project to h
 * **Understanding the Math**: I used the AI to help me figure out how to write the Cholesky layer. It explained how to turn the math formula ($\rho = \frac{LL^{\dagger}}{Tr(LL^{\dagger})}$) into actual code so my density matrix would be physical.
 * **Structure Help**: I used it to double check the folder requirements (src, docs, outputs).
 
-### Human Verification:
-I personally ran all terminal commands, verified the Torch installation version manually, and checked that the final model file (`model.pt`) was generated correctly in the outputs folder.
